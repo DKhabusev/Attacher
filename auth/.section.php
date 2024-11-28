@@ -1,0 +1,6 @@
+<?
+$sSectionName = "auth";
+$arDirProperties = Array(
+
+);
+?>

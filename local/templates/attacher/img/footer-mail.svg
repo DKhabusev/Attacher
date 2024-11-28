@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_134" data-name="Прямоугольник 134" width="20" height="20" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Группа_масок_30" data-name="Группа масок 30" opacity="0.72" clip-path="url(#clip-path)">
+    <g id="email" transform="translate(0 2.633)">
+      <g id="Сгруппировать_49" data-name="Сгруппировать 49" transform="translate(0 4.156)">
+        <g id="Сгруппировать_48" data-name="Сгруппировать 48">
+          <path id="Контур_45" data-name="Контур 45" d="M10.579,12.527a1.137,1.137,0,0,1-1.181,0L0,6.789v7.627a2.953,2.953,0,0,0,2.952,2.952h14.1A2.953,2.953,0,0,0,20,14.416V6.789Z" transform="translate(0 -6.789)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_51" data-name="Сгруппировать 51" transform="translate(0.094)">
+        <g id="Сгруппировать_50" data-name="Сгруппировать 50">
+          <path id="Контур_46" data-name="Контур 46" d="M17.048,2.633H2.952A2.934,2.934,0,0,0,.094,4.947l9.917,6.045,9.894-6.045A2.934,2.934,0,0,0,17.048,2.633Z" transform="translate(-0.094 -2.633)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

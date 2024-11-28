@@ -1,0 +1,6 @@
+<?
+$sSectionName = "favorite";
+$arDirProperties = Array(
+
+);
+?>

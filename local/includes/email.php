@@ -1,0 +1,1 @@
+<a class="mail" href="mailto:info@attacher.ru">info@attacher.ru</a>
