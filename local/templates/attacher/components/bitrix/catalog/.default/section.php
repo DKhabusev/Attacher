@@ -139,6 +139,8 @@ if ($sectionListParams["COUNT_ELEMENTS"] === "Y") {
                             )
                         );?>
                     </div>
+
+
                     <div id="filters">
                         <?$APPLICATION->IncludeComponent(
                             "bitrix:catalog.smart.filter",
